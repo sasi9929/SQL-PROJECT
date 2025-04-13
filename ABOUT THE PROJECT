@@ -1,0 +1,42 @@
+🎵 Music Store Data Analysis🎵
+
+### Objective:
+Analyzed a music store's transactional database using SQL to derive meaningful business insights and help the store understand its revenue trends, customer behavior, and product popularity.
+
+### Key Highlights:
+
+Interactive User Presentation – Included in the project repository for easy understanding and stakeholder use.
+
+Employee Analysis – Identified the senior-most employee by job title and level.
+
+Geographic Revenue Insight – Discovered the countries generating the highest number of invoices.
+
+Invoice Insights – Listed the top 3 highest invoice values.
+
+Customer City Ranking – Determined the city that brought in the most revenue; useful for promotional event planning.
+
+Top Customer – Found the customer who spent the most across all transactions.
+
+Genre Popularity by Country – Identified the most purchased music genre per country, with ties considered.
+
+Rock Music Listener Profiling – Listed all Rock genre listeners with name, email, and sorted alphabetically by email.
+
+Top Rock Artists – Ranked the top 10 artists who contributed the most Rock music tracks.
+
+Song Duration Analysis – Retrieved all tracks longer than the average song duration, ordered by length.
+
+Customer Spend by Artist – Calculated how much each customer spent on each artist.
+
+Top Customer by Country – Highlighted the highest-spending customer in each country (handling ties).
+
+### Tech Stack Used:
+
+SQL – For data extraction and analysis
+
+Excel – For presenting insights visually and interactively
+
+### Dataset Overview:
+
+Data includes tables like employee, customer, invoice, invoice_line, track, album, artist, and genre.
+
+Covers customer purchases, song genres, artist contributions, and global sales data.
